@@ -4,8 +4,10 @@ paging: Slide %d / %d
 ---
 
 # Introduction to Git & Github
-Ayush Dutta & Yash Mehrotra 
 
+> Open talk on discussing git, github and developer workflows
+
+By: Yash Mehrotra, Ayush Dutta 
 
 ---
 
