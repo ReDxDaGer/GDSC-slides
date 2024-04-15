@@ -7,8 +7,7 @@ paging: Slide %d / %d
 > Open talk on discussing git, github and beyond!
 
 By: Ayush Dutta & Yash Mehrotra 
-
-
+ 
 ---
 
 ## Prerequisite: Version Control Systems
